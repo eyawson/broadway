@@ -14,7 +14,37 @@ h1 {
     color: white;
 }
 
-div nav li {
-    font-weight: 18px;
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 11px;
     color: white;
+}
+
+p {
+    font-size: 14px;
+}
+
+a, 
+a:hover, 
+a:active, 
+a:visited,
+.white { 
+    color: white; 
+}
+
+li {
+    list-style: none;
+}
+
+.footer {
+   background-color: dimgray;
 }
